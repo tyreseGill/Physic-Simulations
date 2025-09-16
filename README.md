@@ -1,11 +1,11 @@
 # Physics Lab Simulations & Analysis  
 
-This repository contains a collection of physics lab simulations and written analysis, developed with **VPython** and organized into **Jupyter Notebooks (.ipynb)**.
+This repository contains a collection of physics lab simulations written by Tyrese and Liam back in 2022, developed with **VPython**, and organized to **Jupyter Notebooks (.ipynb)**.
 
 Each lab includes:  
 - Problem statement and background  
 - Explanation of physics principles  
-- Interactive VPython simulations  
+- VPython simulations  
 - Graphs and analysis of results  
 - Conclusions  
 
@@ -14,7 +14,7 @@ Each lab includes:
 ![Earth and Sun Orbiting each other](assets/gifs/Lab-2/Earth_Orbiting_Sun_4.gif)
 * *What are the forces at work on a ball attached to a fixed object via a spring?*
 ![Forces Acting Between a Spring and a Ball](assets/gifs/Lab-4/Spring_Mass.gif)
-* *What is the effect of air resistance on free-falling coffee filters?*
+* *What is the effect of air resistance on a free-falling coffee filter?*
 ![Free Fall with Air Resistance](assets/gifs/Lab-8/Coffee_Filter_Falling.gif)
 * *What would happen if two objects with equal mass and a spring between them were to collide?*
 ![Collisions and Momentum Conservation](assets/gifs/Lab-9/Spring_Collision_1.gif)
@@ -22,20 +22,19 @@ Each lab includes:
 
 ## 📂 Repository Structure  
 ```bash
-├── labs/           # Contains visuals, observations, and analysis
+├── labs/            # Contains visuals, observations, and analysis
 │ ├── Lab-1.ipynb
 │ ├── Lab-2.ipynb
 │ ├── Lab-3.ipynb
 │ └── ...
 ├── assets/
 │ ├── gifs/          # Looping simulation GIFs for quick preview
-│ ├── images/        # Graph diagrams of physical properties
-│ └── ...
+│ └── images/        # Graph diagrams of physical properties
 └── README.md        # (You're here 👋)
 ```
 
 
-## Running the Simulations
+## 🧑‍💻 Running the Simulations
 ![Ball Bouncing Off Wall With VPython](assets/gifs/Other/Ball_Bouncing_Off_Wall.gif)
 All simulations and their corresponding output can be found via [GlowScript](https://www.glowscript.org/), a platform that we used to write and host the simulations listed in this repository. No account is needed to view the simulation nor is there a requirement to download any packages.
 
