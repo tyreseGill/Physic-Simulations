@@ -1,6 +1,8 @@
 # Physics Lab Simulations & Analysis  
 
-This repository contains a collection of physics lab simulations and written analysis, developed with **VPython** and organized into **Jupyter Notebooks (.ipynb)**. Each lab includes:  
+This repository contains a collection of physics lab simulations and written analysis, developed with **VPython** and organized into **Jupyter Notebooks (.ipynb)**.
+
+Each lab includes:  
 - Problem statement and background  
 - Explanation of physics principles  
 - Interactive VPython simulations  
@@ -12,7 +14,7 @@ This repository contains a collection of physics lab simulations and written ana
 ![Earth and Sun Orbiting each other](assets/gifs/Lab-2/Earth_Orbiting_Sun_4.gif)
 * *What are the forces at work on a ball attached to a fixed object via a spring?*
 ![Forces Acting Between a Spring and a Ball](assets/gifs/Lab-4/Spring_Mass.gif)
-* *How is the effect of air resistance on free-falling coffee filters?*
+* *What is the effect of air resistance on free-falling coffee filters?*
 ![Free Fall with Air Resistance](assets/gifs/Lab-8/Coffee_Filter_Falling.gif)
 * *What would happen if two objects with equal mass and a spring between them were to collide?*
 ![Collisions and Momentum Conservation](assets/gifs/Lab-9/Spring_Collision_1.gif)
@@ -35,7 +37,9 @@ This repository contains a collection of physics lab simulations and written ana
 
 ## Running the Simulations
 ![Ball Bouncing Off Wall With VPython](assets/gifs/Other/Ball_Bouncing_Off_Wall.gif)
-All simulations and their corresponding output can be found via [GlowScript](https://www.glowscript.org/), a platform that we used to write and host the simulations listed in this repository. No account is needed to view the simulation nor is there a requirement to download any packages. The links for each lab are listed below:
+All simulations and their corresponding output can be found via [GlowScript](https://www.glowscript.org/), a platform that we used to write and host the simulations listed in this repository. No account is needed to view the simulation nor is there a requirement to download any packages.
+
+The links for each lab are listed below:
 1. [Lab #1](https://www.glowscript.org/#/user/Tyrese_G/folder/Physics-Labs/program/Lab-1)
 2. Lab #2
     - [Lab #2.1](https://www.glowscript.org/#/user/Tyrese_G/folder/Physics-Labs/program/Lab-2-1)
